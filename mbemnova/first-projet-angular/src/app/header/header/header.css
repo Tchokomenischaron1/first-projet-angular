@@ -1,0 +1,16 @@
+.app-header {
+  background-color: blue;
+  color: black;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 4px solid yellow;
+  margin: 0;
+  width: 100%;
+}
+
+.app-header p {
+  font-size: 1.2rem;
+  margin: 0;
+}

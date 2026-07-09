@@ -1,0 +1,14 @@
+.app-menu {
+  background-color: yellow;
+  color: black;
+  width: 250px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.app-menu p {
+  font-size: 1.2rem;
+  margin: 0;
+}
